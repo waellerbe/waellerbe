@@ -1,5 +1,7 @@
 <!-- ![debbie dann header image](https://user-images.githubusercontent.com/29425781/169860856-ffc70a0d-42f4-4b55-90f0-d14ddc77ddf6.png) -->
-# Hello, I am William
+![william_ellerbe_header_image](https://github.com/waellerbe/waellerbe/blob/1e1622ed190595aa816b37710f761e8902e9eb66/WilliamEllerbeGitHubBanner.png)
+
+# Introduction
 
 > As a member of the [EddieHub](https://github.com/EddieHubCommunity) Community, I am learning about Open Source through collaboration with professionals around the world. As a professional I have more than 30 years of experience with Technology. I have a strong interest in The Future of Work, and the potential power that we have within our reach. Through the Mentorship provided by the EddieHub Community, I can now learn how to join the discussion and learn how to add value to given project.
 > 
@@ -51,5 +53,6 @@ hellodeborahuk/hellodeborahuk is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+<!-- ![wave](https://user-images.githubusercontent.com/29425781/154565641-d52e2a87-7a1b-4323-a9c0-57a853ca06ef.png)
+--->
 
