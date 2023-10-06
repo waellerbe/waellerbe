@@ -1,12 +1,11 @@
 <!-- ![debbie dann header image](https://user-images.githubusercontent.com/29425781/169860856-ffc70a0d-42f4-4b55-90f0-d14ddc77ddf6.png) -->
 # Hello, I am William
 
-- 💻 I am a member of the [EddieHub](https://github.com/EddieHubCommunity) Community
-- 📝 I am learning about Open Source through collaboration
-- 🧘🏻‍♀️ I have a strong interest in The Future of Work
-- 📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/williamaellerbe).
+> As a member of the [EddieHub](https://github.com/EddieHubCommunity) Community, I am learning about Open Source through collaboration with professionals around the world. As a professional I have more than 30 years of experience with Technology. I have a strong interest in The Future of Work, and the potential power that we have within our reach. Through the Mentorship provided by the EddieHub Community, I can now learn how to join the discussion and learn how to add value to given project.
+> 
+> You can connect with me on [LinkedIn](https://www.linkedin.com/in/williamaellerbe). 
 
-Through the Mentorship provided by the EddieHub Community, I now have a clear path to learn more about this incredible branch of Technology
+
 
 # My Tech Stack
 <p align="center">
